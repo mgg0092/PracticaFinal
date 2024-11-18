@@ -1,1 +1,0 @@
-git clone URL del repo a clonar
